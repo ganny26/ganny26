@@ -15,6 +15,9 @@ My name is Selvaganesh. I'm a Computer Science Engineer and have experience as F
     - Personal Website - https://ganny26.github.io/
     - YouTube - https://www.youtube.com/user/ganeshrsg
 
+
+![Selvas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganny26&hide=contribs,prs)
+
 <!--
 **ganny26/ganny26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
