@@ -4,7 +4,7 @@ My name is Selvaganesh. I'm a Computer Science Engineer and have experience as F
 
  - 🔭 I write frontend using React JS, Next JS, HTML5, CSS3, StyledComponents.
  - 🔧 I write backend using GraphQL, Node JS, Express JS, Spring Boot, Flask & Lambda Functions.
- - 🥳 Having 6+ years of experience in developing web applications on various platforms like AWS and Digital Ocean. 
+ - 🥳 Having 7+ years of experience in developing web applications on various platforms like AWS and Digital Ocean. 
  - 💼 Good experience in handeling CI/CD deployment using Bitbucket & Jenkins, Concourse pipeline. Experienced with Web Servers like NGINX, Apache and caching framework like Redis. 
  -  ☁️ Experienced in cloud providers like AWS,Digital Ocean, CLoudfoundry to deploy with production grade configuration.
  - 📱 Having 2+ Years of experience in building cross platform mobile apps using React Native.
