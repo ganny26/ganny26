@@ -14,6 +14,11 @@ My name is Selvaganesh. I'm a Computer Science Engineer and have experience as F
     - Personal Blog - https://medium.com/@selvaganesh93
     - Personal Website - https://ganny26.github.io/
     - YouTube - https://www.youtube.com/user/ganeshrsg
+  - Techinical Writings
+    - [NGINX Logging](http://bit.ly/3ICvER1)
+    - [Monitoring GraphQL APIs with OpenTelemetry](http://bit.ly/3QLXHjj)
+    - [Distributed Tracing in a Nodejs application](http://bit.ly/3kdbxyA) 
+    - [Distributed Tracing in a Java application](http://bit.ly/3vWU7ZK) 
 
 
 ![Selvas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganny26&hide=contribs,prs)
