@@ -13,7 +13,7 @@ My name is Selvaganesh. I'm a Computer Science Engineer and have experience as F
     - Github - https://github.com/ganny26
     - Personal Blog - https://medium.com/@selvaganesh93
     - Personal Website - https://ganny26.github.io/
-    - YouTube - https://www.youtube.com/user/ganeshrsg
+   
   - Techinical Writings
     - [NGINX Logging](http://bit.ly/3ICvER1)
     - [Monitoring GraphQL APIs with OpenTelemetry](http://bit.ly/3QLXHjj)
